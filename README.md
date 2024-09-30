@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kristian-FPGA
-- 👀 I’m interested in RFSoc
+- 👋 Hi, I’m @Kristian
+- 👀 I’m interested in FPGA、Wireless communication and RFSoc
 - 🌱 I’m currently learning ZYNQ and AD9361
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
